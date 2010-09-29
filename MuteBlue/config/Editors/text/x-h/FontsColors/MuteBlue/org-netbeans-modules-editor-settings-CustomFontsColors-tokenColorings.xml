@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="default" foreColor="ff2e92c7" name="cc-highlighting-macros-system">
+        <font style="plain"/>
+    </fontcolor>
+    <fontcolor default="default" foreColor="ff2e92c7" name="cc-highlighting-typedefs"/>
+    <fontcolor default="string" name="preprocessor-system-include-literal"/>
+    <fontcolor default="preprocessor" name="preprocessor-keyword-directive"/>
+    <fontcolor default="char" name="character"/>
+    <fontcolor foreColor="ff009b00" name="preprocessor"/>
+    <fontcolor default="pragma-omp" name="pragma-omp-keyword-directive"/>
+    <fontcolor default="error" name="errors"/>
+    <fontcolor default="field" name="cc-highlighting-class-fields"/>
+    <fontcolor default="identifier" name="preprocessor-identifier"/>
+    <fontcolor default="comment" name="doxygen-tag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" name="cc-highlighting-unused-variables" waveUnderlined="ff999999"/>
+    <fontcolor default="method" name="cc-highlighting-function">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" foreColor="ff2e92c7" name="cc-highlighting-macros-user">
+        <font style="plain"/>
+    </fontcolor>
+    <fontcolor default="string" name="preprocessor-user-include-literal"/>
+    <fontcolor default="keyword" name="keyword-directive"/>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="default" foreColor="ff969696" name="cc-highlighting-inactive">
+        <font style="plain"/>
+    </fontcolor>
+    <fontcolor default="whitespace" name="whitespace"/>
+    <fontcolor default="string" name="string-escape">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="number" name="number"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor default="default" foreColor="ff2e92c7" name="cc-highlighting-macros">
+        <font style="plain"/>
+    </fontcolor>
+    <fontcolor default="comment" name="html-tag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="string-escape-invalid" waveUnderlined="ffce7b00">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="string"/>
+    <fontcolor bgColor="ffeceba3" default="default" name="cc-highlighting-mark-occurrences"/>
+    <fontcolor default="preprocessor-keyword-directive" name="preprocessor-keyword"/>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor default="method" name="cc-highlighting-function-usage"/>
+    <fontcolor default="separator" name="separator"/>
+    <fontcolor foreColor="ff2e92c7" name="pragma-omp"/>
+    <fontcolor default="keyword" name="literal"/>
+</fontscolors>

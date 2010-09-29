@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="LINE_COMMENT"/>
+    <fontcolor name="mod-deprecated" strikeThrough="darkGray"/>
+    <fontcolor default="operator" name="ANY_OPERATOR"/>
+    <fontcolor default="whitespace" name="WHITESPACE"/>
+    <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
+    <fontcolor default="error" name="ERROR"/>
+    <fontcolor default="string" name="s_string"/>
+    <fontcolor default="number" name="FLOAT_LITERAL"/>
+    <fontcolor foreColor="ffa06001" name="mod-parameter"/>
+    <fontcolor default="string" name="STRING_LITERAL"/>
+    <fontcolor bgColor="ff2b2b2b" default="error" name="error" waveUnderlined="red"/>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="string" name="js_string"/>
+    <fontcolor default="identifier" name="IDENTIFIER"/>
+    <fontcolor default="whitespace" name="js_whitespace"/>
+    <fontcolor default="regexp" foreColor="ff9933cc" name="mod-regexp"/>
+    <fontcolor default="field" name="mod-global"/>
+    <fontcolor name="mod-class"/>
+    <fontcolor name="js_operator"/>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor default="comment" name="BLOCK_COMMENT"/>
+    <fontcolor default="separator" name="js_separator"/>
+    <fontcolor default="string" name="s_p">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="number" name="js_number"/>
+    <fontcolor bgColor="ffffe4ff" foreColor="black" name="mod-custom1"/>
+    <fontcolor default="keyword" name="js_keyword"/>
+    <fontcolor name="mod-custom3">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="blue" name="mod-custom2"/>
+</fontscolors>

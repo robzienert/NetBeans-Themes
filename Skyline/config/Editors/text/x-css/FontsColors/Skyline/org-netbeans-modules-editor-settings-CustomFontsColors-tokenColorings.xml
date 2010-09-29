@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ff94a4b7" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" name="others"/>
+    <fontcolor default="number" foreColor="fff78531" name="hash"/>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="default" name="whitespace"/>
+    <fontcolor default="number" name="number"/>
+    <fontcolor default="error" name="unknown"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor default="string" name="url"/>
+    <fontcolor bgColor="darkGray" name="mark-occurrences"/>
+    <fontcolor default="separator" name="brace"/>
+    <fontcolor default="string" name="string"/>
+    <fontcolor name="mod-custom1"/>
+    <fontcolor foreColor="blue" name="mod-custom2">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="identifier" foreColor="ffd2b979" name="identifier"/>
+    <fontcolor default="separator" name="separator"/>
+</fontscolors>

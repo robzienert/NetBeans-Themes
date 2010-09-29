@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="keyword" name="selector">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="mixin" name="mixin_name">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="whitespace" name="whitespace"/>
+    <fontcolor default="number" name="number"/>
+    <fontcolor default="reserved" foreColor="ffcc0000" name="reserved">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="url" name="url"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor default="keyword" name="css_attribute">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="string"/>
+    <fontcolor default="number" name="css_value"/>
+    <fontcolor default="mixin" name="mixin">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor default="keyword" name="variable">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="separator" name="separator"/>
+    <fontcolor default="number" name="literal"/>
+</fontscolors>
